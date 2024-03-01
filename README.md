@@ -23,9 +23,3 @@ Welcome to the Movie App repository! This project is dedicated to providing a pl
 
 - **External APIs**:
   - Integration with external APIs for fetching movie data and streaming links.
-
-## Setup
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/movie-app.git
